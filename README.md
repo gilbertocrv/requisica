@@ -1,0 +1,2 @@
+# requisica
+Método de requisição 
